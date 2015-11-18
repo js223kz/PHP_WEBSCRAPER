@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d538b07b-81b8-4475-89c6-091ced51c94a" name="scraper" url="http://46.101.239.133">
+        <fileTransfer host="46.101.239.133" port="22" privateKey="$USER_HOME$/.ssh/DigitalOcean" accessType="SFTP" username="root" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
