@@ -33,4 +33,4 @@ node_modules
 .vagrant
 sessions
 
-Settings.php
+/Settings.php
